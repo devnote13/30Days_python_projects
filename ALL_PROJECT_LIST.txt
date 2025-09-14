@@ -1,2 +1,2 @@
 Day 1: Dice roller
-Day 2: Base64 encoder and decoder
+Day 1.5: Base64 encoder and decoder
